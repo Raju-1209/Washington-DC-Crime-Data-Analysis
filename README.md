@@ -46,7 +46,7 @@ This Crime Data Analysis project in Power BI explores crime trends in Washington
 
 This project provided valuable insights into crime data analysis, enhancing my ability to work with real-world datasets. It strengthened my analytical skills, particularly in identifying crime trends, prime locations, and high-risk areas using Power BI. Additionally, it reinforced the importance of data-driven decision-making in law enforcement and urban safety planning. 🚔📊
 
-- <a href="https://github.com/Raju-1209/Washington-DC-Crime-Data-Analysis/blob/main/Washington%20DC%20Jan-Feb%20Crime%20Report.pdf">Washington DC Jan-Feb Crime Report</a> 
+🔗 - <a href="https://github.com/Raju-1209/Washington-DC-Crime-Data-Analysis/blob/main/Washington%20DC%20Jan-Feb%20Crime%20Report.pdf">Washington DC Jan-Feb Crime Report</a> 
 
 #PowerBI #DataAnalytics #EcommerceAnalysis #DataVisualization #BusinessIntelligence
 
